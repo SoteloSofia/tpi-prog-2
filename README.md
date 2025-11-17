@@ -85,4 +85,4 @@ El programa presenta un menú de consola con 9 opciones para administrar las ent
 
 Aquí se encuentra el enlace al video de la presentación del TFI, donde se muestra el flujo de uso, la arquitectura y la demostración del `rollback` transaccional.
 
-**[AQUÍ VA EL ENLACE A TU VIDEO EN YOUTUBE O DRIVE]**
+**ENLACE DE LA PRESENTACIÓN**
