@@ -98,13 +98,13 @@ El programa presenta un menú de consola con 9 opciones para administrar las ent
 * **5) Eliminar (lógico) una Empresa:**
     * Realiza una baja lógica (soft delete) de la empresa y su domicilio asociado.
 * **6) Listar Domicilios Fiscales:**
-   *Muestra un listado de todos los domicilios fiscales activos (no eliminados) en el sistema.
+    * Muestra un listado de todos los domicilios fiscales activos (no eliminados) en el sistema.
 * **7) Ver Domicilio Fiscal por ID:**
-   *Permite buscar y visualizar el detalle completo de un domicilio específico ingresando su identificador único.
+    * Permite buscar y visualizar el detalle completo de un domicilio específico ingresando su identificador único.
 * **8) Actualizar Domicilio Fiscal:**
-   *Permite modificar los atributos de un domicilio (calle, número, ciudad, etc.). Implementa una mejora de UX: si se deja un campo vacío al editar, se mantiene el valor actual.
+    * Permite modificar los atributos de un domicilio (calle, número, ciudad, etc.). Implementa una mejora de UX: si se deja un campo vacío al editar, se mantiene el valor actual.
 * **9) Eliminar (lógicamente) Domicilio Fiscal:**
-    *Realiza una baja lógica (soft delete) de un domicilio específico, marcándolo como eliminado en la base de datos sin borrar el registro físico.
+    * Realiza una baja lógica (soft delete) de un domicilio específico, marcándolo como eliminado en la base de datos sin borrar el registro físico.
 ---
 
 ## 🎥 Video de Presentación 
