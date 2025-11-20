@@ -30,7 +30,7 @@ src/
 * **IDE:** Apache NetBeans (o un IDE compatible)
 * **Base de Datos:** MySQL 8.0+
 * **Persistencia:** JDBC (con `mysql-connector-j-8.0.33.jar`)
-* ****Driver JDBC:** MySQL Connector/J 8.0.33+
+* **Driver JDBC:** MySQL Connector/J 8.0.33+
   
 ---
 
