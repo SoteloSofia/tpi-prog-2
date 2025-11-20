@@ -7,6 +7,8 @@
 ### Tecnicatura Universitaria en Programación — UTN
 ### Año: 2025
 
+---
+
 El presente proyecto implementa un sistema de gestión desarrollado en Java que implementa el dominio **Empresa → DomicilioFiscal**, modelando una relación 1-a-1 unidireccional.
 La aplicación utiliza persistencia con JDBC puro (sin ORM), realiza operaciones CRUD completas y manejo de transacciones manuales (commit/rollback) para garantizar la integridad de los datos.
 
