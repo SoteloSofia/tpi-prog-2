@@ -8,8 +8,7 @@
 ### Año: 2025
 
 El presente proyecto implementa un sistema de gestión desarrollado en Java que implementa el dominio **Empresa → DomicilioFiscal**, modelando una relación 1-a-1 unidireccional.
-Se implementa el acceso a datos mediante JDBC puro (sin ORM) , realizar operaciones CRUD completas y aplicar transacciones para garantizar la integridad de los datos.
-La aplicación utiliza una arquitectura por capas (DAO, Service, Main), persistencia con JDBC puro (sin ORM) y manejo de transacciones manuales (commit/rollback) para para garantizar la integridad de los datos.
+La aplicación utiliza persistencia con JDBC puro (sin ORM), realiza operaciones CRUD completas y manejo de transacciones manuales (commit/rollback) para garantizar la integridad de los datos.
 
 ---
 ## 🧱 Arquitectura del Proyecto
