@@ -97,7 +97,6 @@ El programa presenta un menú de consola con 9 opciones para administrar las ent
     * Permite modificar Razón Social, CUIT, etc.
 * **5) Eliminar (lógico) una Empresa:**
     * Realiza una baja lógica (soft delete) de la empresa y su domicilio asociado.
-* **6-9) CRUD de Domicilios:**
 * **6) Listar Domicilios Fiscales:**
    *Muestra un listado de todos los domicilios fiscales activos (no eliminados) en el sistema.
 * **7) Ver Domicilio Fiscal por ID:**
