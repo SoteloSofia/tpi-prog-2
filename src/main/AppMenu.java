@@ -296,7 +296,7 @@ public class AppMenu {
         System.out.print("Actividad principal: ");
         e.setActividadPrincipal(scanner.nextLine().trim());
 
-        System.out.print("Email formato 'ej@ej.com (opcional): ");
+        System.out.print("Email (correo@correo.com): ");
         String email = scanner.nextLine().trim();
         if (!email.isEmpty()) e.setEmail(email);
 
@@ -309,7 +309,7 @@ public class AppMenu {
         System.out.print("Calle: ");
         d.setCalle(scanner.nextLine().trim());
 
-        System.out.print("Numero (opcional): ");
+        System.out.print("Numero: ");
         String n = scanner.nextLine().trim();
         if (!n.isEmpty()) {
             try {
@@ -326,7 +326,7 @@ public class AppMenu {
         System.out.print("Provincia: ");
         d.setProvincia(scanner.nextLine().trim());
 
-        System.out.print("Codigo Postal (opcional): ");
+        System.out.print("Codigo Postal: ");
         d.setCodigoPostal(scanner.nextLine().trim());
 
         System.out.print("Pais: ");
@@ -343,7 +343,7 @@ public class AppMenu {
             try {
                 return Integer.parseInt(scanner.nextLine().trim());
             } catch (NumberFormatException e) {
-                System.out.println("Debe ingresar un número entero valido.");
+                System.out.println("Debe ingresar un numero entero valido.");
             }
         }
     }

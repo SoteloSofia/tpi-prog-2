@@ -2,12 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Sofi/Documents/NetBeansProjects/tpi-prog-2/src/entities/DomicilioFiscal.java</file>
-            <file>file:/C:/Users/Sofi/Documents/NetBeansProjects/tpi-prog-2/src/config/DatabaseConnection.java</file>
-            <file>file:/C:/Users/Sofi/Documents/NetBeansProjects/tpi-prog-2/src/dao/GenericDao.java</file>
-            <file>file:/C:/Users/Sofi/Documents/NetBeansProjects/tpi-prog-2/src/dao/DomicilioFiscalDao.java</file>
-            <file>file:/C:/Users/Sofi/Documents/NetBeansProjects/tpi-prog-2/src/dao/EmpresaDao.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
